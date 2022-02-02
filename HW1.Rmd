@@ -9,6 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE, error = TRUE, eval = TRUE)
 ```
 
+#Run this code first
 ```{r, include=FALSE}
 if (!require('ggplot2')) install.packages('ggplot2'); library('ggplot2') 
 ```
