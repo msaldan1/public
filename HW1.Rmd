@@ -99,7 +99,7 @@ Q16. A line of code that assigns `state` column as `x` position of `midwest` dat
 #remove this comment and answer here
 ```
 
-Q17. Five lines of code that will return a bar plot of the `midwest_prop` variable with a title `Plot of proportion by state`. X-axis is labeled as `state` and y-axis as `prop`. 
+Q17. Five lines of code that will return a bar plot of the `midwest_plot` variable with a title `Plot of count by state`. X-axis is labeled as `state` and y-axis as `count`. 
 ```{r}
 #remove this comment and answer here
 ```
