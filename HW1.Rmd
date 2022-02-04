@@ -85,7 +85,7 @@ Q13. A line of code that returns dimension information of `presidential` data
 
 Q14. What are the unique values of `party` column of `presidential` data?
 ```{r}
-#ANSWER
+#remove this comment and answer here
 ```
 
 Q15. Two lines of code that will directly create a simple stacked bar plot that shows the count by `class` column of `mpg` data with filling color by `trans` column
